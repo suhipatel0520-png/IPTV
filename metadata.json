@@ -1,0 +1,6 @@
+{
+  "name": "Global IPTV",
+  "description": "Free global live TV streaming with 15,000+ worldwide channels, categories, countries, and HD player.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
